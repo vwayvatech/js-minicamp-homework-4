@@ -1,0 +1,13 @@
+Callback Functions - Functions that can be called in a function.  Functions that can be written inline or called as a variable name.
+
+Closure - Callback functions may not know the reference of the variable or object that it needs to get the contents within it's inner
+function.  The ability to go 1 step up which is outside of the function, they can get the refrence of the variable or object.
+
+arguments array - It is an array that contains a set of code to do operations that can be run at each element of the array.
+
+recursion - An efficient way to call a function itself numerous times.
+
+prototype - When a object is already created, this prototype method can be called without repeating it for other instances of this object.
+
+constructors - When a object needs to be initialized with "new" to allocate memory, this initial setup function is build the memory space
+for all the objects that are in it.
